@@ -39,6 +39,10 @@ GYIK
 - Milyen elvárásaitok vannak?
   - Legyen mindig a suli az első. Csak akkor foglalkozz a projekktel ha van rá időd / kedved / hangulatod. Nem kell sietni nem időre megy.
 
+A projektben közreműködött
+-----------
+- Kárpáti Barbara, PR
+
 Köszönetnyílvánítás
 -----------
-Köszönjük Kárpáti Barbarának(PR), Czirkos Zoltánnak, Fehér Bélának és Raikovich Tamásnak azt a sok segítséget amit nyújtottak. Nélkülük nem jutottunk volna el eddig a projekktel.
+Köszönjük Czirkos Zoltánnak, Fehér Bélának és Raikovich Tamásnak azt a sok segítséget amit nyújtottak. Nélkülük nem jutottunk volna el eddig a projekktel.
