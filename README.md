@@ -25,12 +25,12 @@ Ez **nem** egy zárt projekt. Ha be szeretnél csatlakozni akár ebbe, akár egy
 
 - Érdekességek
   - Több mint 2hónap ment bele az egész projektbe (eddig)
-  - Összesen több mint 4000 sor kód, amiből csak 700 az arduinóé, a többi a teszter keretrendszer
+  - Összesen több mint 4000 sor kód, amiből csak 800 az arduinóé, a többi a teszter keretrendszer
 
 GYIK
 -----------
 
-- A teszter keretrendszert miért töltöd fel?
+- A teszter keretrendszert miért nem töltöd fel?
   - Nem merem felvállalni, összecsaptam és már van specifikáció egy következőre ahol értelmesebben lesz megoldva. Most jó így is egyenlőre
 
 - Milyen előfeltételekkel csatlakozhatok?
